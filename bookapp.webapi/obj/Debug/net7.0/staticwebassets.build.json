@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o4gxW8LHU0laInlRvou66X61X1kqbTZsAj/nJ3voK7E=",
+  "Source": "bookapp.webapi",
+  "BasePath": "_content/bookapp.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
